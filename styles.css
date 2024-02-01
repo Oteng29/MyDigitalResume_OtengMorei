@@ -21,7 +21,7 @@ body{
 #topheader{
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-image: url(/Images/bac.gif);
+    background-image: url(Images/bac.gif);
     background-size: cover;
     color: #ebebeb;
     padding:50px;
