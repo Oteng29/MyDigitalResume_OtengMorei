@@ -1,6 +1,6 @@
 # Digital Resume App
 
-![Resume Image](Images/ShoulderImage.jpg)
+![resume-image](Images/ShoulderImage.jpg)
 
 ## Overview
 
@@ -34,4 +34,4 @@ Track the performance of your digital resume with built-in analytics. Monitor vi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Oteng29/digital-resume-app.git
+   git clone https://github.com/Oteng29/MyDigitalResume_OtengMorei.git

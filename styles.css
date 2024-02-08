@@ -5,6 +5,11 @@ body{
     
   }
 
+.resume-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+}
   
 
 .profile-pic img {
